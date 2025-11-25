@@ -1,0 +1,41 @@
+
+btn_invite_ani.png
+size: 434,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Invite&Earn
+  rotate: false
+  xy: 280, 88
+  size: 128, 23
+  orig: 128, 23
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 161, 12
+  size: 117, 99
+  orig: 117, 99
+  offset: 0, 0
+  index: -1
+chaop
+  rotate: true
+  xy: 382, 8
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 280, 38
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+guangmang
+  rotate: false
+  xy: 2, 2
+  size: 157, 109
+  orig: 190, 132
+  offset: 9, 12
+  index: -1

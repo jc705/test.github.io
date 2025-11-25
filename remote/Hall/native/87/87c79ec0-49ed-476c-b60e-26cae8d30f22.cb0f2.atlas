@@ -1,0 +1,97 @@
+
+30000406.png
+size: 662,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 11
+  size: 205, 230
+  orig: 205, 230
+  offset: 0, 0
+  index: -1
+LOGO
+  rotate: false
+  xy: 393, 30
+  size: 147, 68
+  orig: 149, 70
+  offset: 1, 1
+  index: -1
+P2
+  rotate: false
+  xy: 234, 96
+  size: 115, 120
+  orig: 117, 122
+  offset: 1, 1
+  index: -1
+P3
+  rotate: false
+  xy: 351, 100
+  size: 100, 116
+  orig: 101, 118
+  offset: 0, 1
+  index: -1
+P4
+  rotate: false
+  xy: 453, 110
+  size: 82, 106
+  orig: 83, 107
+  offset: 1, 0
+  index: -1
+chouma_2
+  rotate: false
+  xy: 604, 5
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+chouma_h
+  rotate: false
+  xy: 593, 161
+  size: 62, 55
+  orig: 63, 55
+  offset: 1, 0
+  index: -1
+chouma_z
+  rotate: false
+  xy: 593, 128
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+huanguan
+  rotate: true
+  xy: 537, 125
+  size: 91, 54
+  orig: 93, 54
+  offset: 1, 0
+  index: -1
+llvchou1
+  rotate: true
+  xy: 542, 60
+  size: 63, 67
+  orig: 63, 68
+  offset: 0, 1
+  index: -1
+llvchou2
+  rotate: true
+  xy: 542, 2
+  size: 56, 60
+  orig: 57, 60
+  offset: 1, 0
+  index: -1
+llvchou3
+  rotate: false
+  xy: 611, 78
+  size: 49, 48
+  orig: 51, 49
+  offset: 1, 1
+  index: -1
+table
+  rotate: false
+  xy: 234, 8
+  size: 157, 86
+  orig: 157, 86
+  offset: 0, 0
+  index: -1
