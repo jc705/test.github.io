@@ -1,0 +1,27 @@
+
+dailyreward.png
+size: 157,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Reward
+  rotate: false
+  xy: 81, 52
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 4
+  size: 77, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 81, 2
+  size: 60, 48
+  orig: 61, 49
+  offset: 1, 1
+  index: -1
