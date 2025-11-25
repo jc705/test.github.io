@@ -1,0 +1,55 @@
+
+30000007.png
+size: 362,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 3
+  size: 205, 230
+  orig: 205, 230
+  offset: 0, 0
+  index: -1
+POKER
+  rotate: false
+  xy: 209, 40
+  size: 151, 35
+  orig: 151, 35
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: true
+  xy: 209, 77
+  size: 156, 150
+  orig: 156, 150
+  offset: 0, 0
+  index: -1
+coin_1
+  rotate: false
+  xy: 281, 14
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+coin_2
+  rotate: false
+  xy: 209, 2
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+coin_3
+  rotate: false
+  xy: 309, 21
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 249, 9
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
