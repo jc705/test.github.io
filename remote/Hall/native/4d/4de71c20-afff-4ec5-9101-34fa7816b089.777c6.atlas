@@ -1,0 +1,41 @@
+
+btn_luckyspin.png
+size: 212,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lucky Spin
+  rotate: false
+  xy: 96, 2
+  size: 104, 24
+  orig: 104, 24
+  offset: 0, 0
+  index: -1
+dengguang
+  rotate: false
+  xy: 166, 31
+  size: 18, 18
+  orig: 20, 18
+  offset: 1, 0
+  index: -1
+top
+  rotate: false
+  xy: 166, 51
+  size: 44, 45
+  orig: 46, 45
+  offset: 1, 0
+  index: -1
+waikuang
+  rotate: false
+  xy: 2, 4
+  size: 92, 92
+  orig: 92, 93
+  offset: 0, 1
+  index: -1
+wheel
+  rotate: false
+  xy: 96, 28
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1

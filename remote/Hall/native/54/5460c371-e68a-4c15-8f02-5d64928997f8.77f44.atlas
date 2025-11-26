@@ -1,0 +1,97 @@
+
+11001001.png
+size: 363,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOGO
+  rotate: true
+  xy: 256, 361
+  size: 154, 70
+  orig: 154, 70
+  offset: 0, 0
+  index: -1
+baoxiang
+  rotate: true
+  xy: 2, 4
+  size: 166, 156
+  orig: 172, 161
+  offset: 6, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 172
+  size: 205, 230
+  orig: 205, 230
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 234, 221
+  size: 138, 122
+  orig: 186, 159
+  offset: 12, 37
+  index: -1
+coin
+  rotate: true
+  xy: 308, 76
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+erzhui
+  rotate: false
+  xy: 354, 385
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 308, 115
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+fasi_shang
+  rotate: true
+  xy: 328, 408
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+fasi_shang2
+  rotate: true
+  xy: 328, 367
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 234, 157
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+maozi_hou
+  rotate: true
+  xy: 328, 446
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 160, 2
+  size: 146, 153
+  orig: 150, 179
+  offset: 4, 26
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 379
+  size: 252, 136
+  orig: 252, 136
+  offset: 0, 0
+  index: -1

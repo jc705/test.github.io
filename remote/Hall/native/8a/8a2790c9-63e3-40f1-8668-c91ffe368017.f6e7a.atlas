@@ -1,0 +1,69 @@
+
+30000406.png
+size: 646,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 234, 14
+  size: 109, 103
+  orig: 112, 106
+  offset: 2, 1
+  index: -1
+BG
+  rotate: true
+  xy: 2, 2
+  size: 205, 230
+  orig: 205, 230
+  offset: 0, 0
+  index: -1
+P2
+  rotate: true
+  xy: 533, 122
+  size: 85, 111
+  orig: 89, 113
+  offset: 4, 0
+  index: -1
+P3
+  rotate: false
+  xy: 345, 5
+  size: 69, 112
+  orig: 73, 116
+  offset: 4, 3
+  index: -1
+Table
+  rotate: false
+  xy: 234, 119
+  size: 159, 88
+  orig: 159, 93
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: false
+  xy: 508, 3
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+golds
+  rotate: false
+  xy: 508, 63
+  size: 90, 57
+  orig: 90, 57
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 395, 132
+  size: 136, 75
+  orig: 136, 75
+  offset: 0, 0
+  index: -1
+p4
+  rotate: false
+  xy: 416, 9
+  size: 90, 121
+  orig: 95, 126
+  offset: 5, 2
+  index: -1
