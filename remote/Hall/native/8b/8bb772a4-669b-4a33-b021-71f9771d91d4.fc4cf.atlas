@@ -1,0 +1,97 @@
+
+paijiang_effct1.png
+size: 1141,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 104
+  size: 1137, 275
+  orig: 1139, 275
+  offset: 1, 0
+  index: -1
+cd1
+  rotate: true
+  xy: 980, 89
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+cd2
+  rotate: true
+  xy: 1053, 87
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+cd3
+  rotate: false
+  xy: 993, 92
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+cd4
+  rotate: true
+  xy: 1005, 94
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+cd5
+  rotate: true
+  xy: 980, 77
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+cd6
+  rotate: true
+  xy: 996, 80
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+cd7
+  rotate: true
+  xy: 1007, 80
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+fx_light1
+  rotate: false
+  xy: 528, 61
+  size: 330, 41
+  orig: 597, 47
+  offset: 259, 3
+  index: -1
+fx_light2
+  rotate: false
+  xy: 528, 23
+  size: 450, 36
+  orig: 760, 40
+  offset: 7, 2
+  index: -1
+line1
+  rotate: false
+  xy: 528, 17
+  size: 523, 4
+  orig: 526, 4
+  offset: 3, 0
+  index: -1
+line2
+  rotate: false
+  xy: 528, 11
+  size: 523, 4
+  orig: 526, 4
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 2
+  size: 524, 100
+  orig: 531, 108
+  offset: 3, 4
+  index: -1
