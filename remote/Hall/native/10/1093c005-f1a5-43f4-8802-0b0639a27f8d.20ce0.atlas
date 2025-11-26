@@ -1,0 +1,55 @@
+
+Daily_task_ani.png
+size: 143,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DailyTasks
+  rotate: false
+  xy: 2, 2
+  size: 100, 23
+  orig: 100, 23
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 86, 52
+  size: 72, 45
+  orig: 72, 45
+  offset: 0, 0
+  index: -1
+box_gai
+  rotate: false
+  xy: 2, 27
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 121, 29
+  size: 20, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 104, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+golds
+  rotate: false
+  xy: 74, 29
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+guangmang
+  rotate: false
+  xy: 2, 68
+  size: 82, 56
+  orig: 100, 68
+  offset: 5, 6
+  index: -1
