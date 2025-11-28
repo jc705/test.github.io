@@ -1,0 +1,27 @@
+
+jiazaiing.png
+size: 128,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cir
+  rotate: false
+  xy: 82, 31
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+cir_lieb
+  rotate: true
+  xy: 2, 2
+  size: 73, 78
+  orig: 76, 80
+  offset: 1, 1
+  index: -1
+taoh
+  rotate: true
+  xy: 82, 4
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
